@@ -24,3 +24,16 @@ The clock alarm must be able to :
 ### Wiring scheme
 
 ![Wiring Scheme](CircuitSketch.jpg)
+
+## Software
+
+### Behavior
+
+The setting time button must have the following behavior :
+
+- After being pushed 3s, the time setting is enabled for the hours;
+- After pushing another time, the time setting is now enabled for the minutes;
+- After pushing a third and last time, the time is set.
+
+
+
